@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graphic xmlns="http://ns.adobe.com/fxg/2008" xmlns:fxg="http://ns.adobe.com/fxg/2008" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" version="2.0" viewWidth="278" viewHeight="208">
+  <mask>
+    <Group>
+      <Rect width="278" height="208">
+        <fill>
+          <SolidColor color="#ffffff" alpha="1"/>
+        </fill>
+      </Rect>
+    </Group>
+  </mask>
+  <!--Unknown tag: metadata-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <!--Unknown tag: defs-->
+  <Group x="40.496128" y="2.3073063">
+    <Group maskType="clip">
+      <mask>
+        <Group>
+          <Ellipse x="0" y="0" width="200" height="200" id="circle1294">
+            <fill>
+              <SolidColor color="#ffffff" alpha="1"/>
+            </fill>
+          </Ellipse>
+        </Group>
+      </mask>
+      <Group id="clock">
+        <Group id="background">
+          <Ellipse x="0" y="0" width="200" height="200" id="circle1299"/>
+        </Group>
+        <Group id="dial">
+          <Group id="dialSwiss"/>
+          <Group id="dialAustria"/>
+          <Group id="dialPoints"/>
+          <Group id="dialDIN41091.1"/>
+          <Group id="dialDIN41091.3"/>
+          <Group id="dialDIN41091.4">
+            <Group id="g1379">
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="100" y="30" id="text1355" whiteSpaceCollapse="preserve">
+                <content>12</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="143" y="41" id="text1357" whiteSpaceCollapse="preserve">
+                <content>1</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="171" y="70" id="text1359" whiteSpaceCollapse="preserve">
+                <content>2</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="182" y="109" id="text1361" whiteSpaceCollapse="preserve">
+                <content>3</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="171" y="147" id="text1363" whiteSpaceCollapse="preserve">
+                <content>4</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="142" y="176" id="text1365" whiteSpaceCollapse="preserve">
+                <content>5</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="100" y="188" id="text1367" whiteSpaceCollapse="preserve">
+                <content>6</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="60" y="176" id="text1369" whiteSpaceCollapse="preserve">
+                <content>7</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="30" y="147" id="text1371" whiteSpaceCollapse="preserve">
+                <content>8</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="18" y="109" id="text1373" whiteSpaceCollapse="preserve">
+                <content>9</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="34" y="70" id="text1375" whiteSpaceCollapse="preserve">
+                <content>10</content>
+              </RichText>
+              <RichText alignmentBaseline="ascent" fontSize="24" color="#333333" textAlpha="1" x="61" y="41" id="text1377" whiteSpaceCollapse="preserve">
+                <content>11</content>
+              </RichText>
+            </Group>
+          </Group>
+        </Group>
+        <Group id="hourHand">
+          <Group id="hourHandSwiss">
+            <!--FXG does not support polygons-->
+          </Group>
+          <Group id="hourHandGerman">
+            <Rect x="95" y="40" width="10" height="65" id="rect1386">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Rect>
+          </Group>
+          <Group id="hourHandSiemens">
+            <Rect x="97" y="65" width="5" height="35" id="rect1389">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Rect>
+            <Ellipse x="88" y="50" width="18" height="18" id="circle1391">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Ellipse>
+            <Ellipse x="94" y="50" width="18" height="18" id="circle1393">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Ellipse>
+            <Path data="m 88.3 58.5 q 0 -6.5 11.7 -21 11.7 14.5 11.7 21 z" winding="nonZero" id="path1395">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Path>
+            <Path data="m 93.5 123 q 6.5 2.5 13 0 -3.5 -7 -3.8 -23 h -5.4 q 0 16 -3.8 23 z" winding="nonZero" id="path1397">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Path>
+            <Ellipse x="93" y="93" width="14" height="14" id="circle1399">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Ellipse>
+          </Group>
+          <Group id="hourHandDIN41092.3">
+            <!--FXG does not support polygons-->
+          </Group>
+        </Group>
+        <Group id="minuteHand">
+          <Group id="minuteHandSwiss">
+            <!--FXG does not support polygons-->
+          </Group>
+          <Group id="minuteHandGerman">
+            <Rect x="95" y="6" width="8" height="99" id="rect1409">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Rect>
+          </Group>
+          <Group id="minuteHandSiemens">
+            <!--FXG does not support polygons-->
+            <Path data="m 93.5 123 q 6.5 2.5 13 0 -3.5 -7 -3.8 -23 h -5.4 q 0 16 -3.8 23 z" winding="nonZero" id="path1414">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Path>
+            <Ellipse x="93" y="93" width="14" height="14" id="circle1416">
+              <fill>
+                <SolidColor color="#222222" alpha="1"/>
+              </fill>
+            </Ellipse>
+          </Group>
+          <Group id="minuteHandDIN41092.3">
+            <!--FXG does not support polygons-->
+          </Group>
+        </Group>
+        <Group id="secondHand">
+          <Group id="secondHandSwiss">
+            <Line xFrom="100" yFrom="34" xTo="100" yTo="135" id="line1423">
+              <fill>
+                <SolidColor color="#AD1A14" alpha="1"/>
+              </fill>
+              <stroke>
+                <SolidColorStroke color="#AD1A14" alpha="1" weight="4" joints="miter" caps="round"/>
+              </stroke>
+            </Line>
+            <Ellipse x="90" y="24" width="20" height="20" id="circle1425">
+              <fill>
+                <SolidColor color="#AD1A14" alpha="1"/>
+              </fill>
+            </Ellipse>
+          </Group>
+          <Group id="secondHandGerman">
+            <!--FXG does not support polygons-->
+            <Ellipse x="90" y="35" width="20" height="20" id="circle1430">
+              <stroke>
+                <SolidColorStroke color="#AD1A14" alpha="1" weight="4" joints="miter" caps="none"/>
+              </stroke>
+            </Ellipse>
+            <!--FXG does not support polygons-->
+          </Group>
+          <Group id="secondHandDIN41071.1">
+            <!--FXG does not support polygons-->
+          </Group>
+          <Group id="secondHandDIN41071.2">
+            <!--FXG does not support polygons-->
+            <!--FXG does not support polygons-->
+            <Ellipse x="91" y="41" width="18" height="18" id="circle1442">
+              <stroke>
+                <SolidColorStroke color="#AD1A14" alpha="1" weight="7" joints="miter" caps="none"/>
+              </stroke>
+            </Ellipse>
+          </Group>
+        </Group>
+        <Group id="axisCover">
+          <Ellipse x="90" y="90" width="20" height="20" id="axisCoverCircle"/>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Group x="40.496128" y="2.3073063">
+    <RichText alignmentBaseline="ascent" fontSize="37" fontWeight="normal" fontFamily="sans-serif" fontStyle="normal" color="#000000" textAlpha="1" lineHeight="1" blockProgression="tb" id="flowRoot1469" width="336" height="86" x="-85" y="-31">
+      <content/>
+    </RichText>
+  </Group>
+  <Rect x="0" y="0" width="278" height="208" id="image1503">
+    <fill>
+      <BitmapFill source="@Embed('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABA4AAAMGCAYAAAByKsajAAAABHNCSVQICAgIfAhkiAAAEq5JREFU eJzt2KEBgDAAxEBg0BrmwnRSFDIC1Yo79fJ1jgMAAAAgnN8YYzwrjwAAAAB7mXPe1+oTAAAAwL6E AwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcA AABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAA gCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJ OAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAA AAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAA AEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQ hAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkH AAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAA AIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAA STgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJw AAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAA AABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAA kIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJ BwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4A AACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAA AEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACS cAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEA AAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAA AJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAg CQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIO AAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAA AABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAA knAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACTh AAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEA AACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAA IAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEAS DgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwA AAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAA AJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk 4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIB AAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAA ACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABA Eg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQc AAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAA AACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAA JOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjC AQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMA AAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAA QBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAk HAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgA AAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAA ACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABI wgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQD AAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAA AEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACA JBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4 AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAA AAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAA SMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCE AwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcA AABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAA gCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJ OAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAA AAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAA AEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQ hAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkH AAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAA AIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAA STgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJw AAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAA AABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAA kIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJ BwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4A AACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAA AEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACS cAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEA AAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAA AJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAg CQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIO AAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAA AABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAA knAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACTh AAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEA AACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAA IAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEAS DgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwA AAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAA AJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk 4QAAAABIwgEAAACQhAMAAAAgCQcAAABAEg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIB AAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQcAAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAA ACAJBwAAAEASDgAAAIAkHAAAAABJOAAAAACScAAAAAAk4QAAAABIwgEAAACQhAMAAAAgCQcAAABA Eg4AAACAJBwAAAAASTgAAAAAknAAAAAAJOEAAAAASMIBAAAAkIQDAAAAIAkHAAAAQBIOAAAAgCQc AAAAAEk4AAAAAJJwAAAAACThAAAAAEjCAQAAAJCEAwAAACAJBwAAAAAAAADAfy+sgAoId0B8mwAA AABJRU5ErkJggg== ')"/>
+    </fill>
+  </Rect>
+  <Group x="40.496128" y="2.3073063">
+    <RichText alignmentBaseline="ascent" fontSize="37" fontWeight="normal" fontFamily="sans-serif" fontStyle="normal" color="#000000" textAlpha="1" lineHeight="1" blockProgression="tb" id="flowRoot1506" width="137" height="61" x="239" y="114">
+      <content/>
+    </RichText>
+  </Group>
+  <RichText alignmentBaseline="ascent" fontSize="16" fontWeight="normal" fontFamily="sans-serif" fontStyle="normal" color="#FFFFFF" textAlpha="1" lineHeight="1" x="138" y="74" blockProgression="tb" id="text1457">
+    <content>
+      <span whiteSpaceCollapse="preserve" color="#FFFFFF" textAlpha="1" fontSize="15" fontWeight="bold" fontFamily="sans-serif" fontStyle="normal" lineHeight="1">Metrology with Molecules:</span>
+      <span whiteSpaceCollapse="preserve" color="#FFFFFF" textAlpha="1" fontSize="15" fontWeight="bold" fontFamily="sans-serif" fontStyle="normal" lineHeight="1">from Molecular Fountains</span>
+      <span whiteSpaceCollapse="preserve" color="#FFFFFF" textAlpha="1" fontSize="15" fontWeight="bold" fontFamily="sans-serif" fontStyle="normal" lineHeight="1">to Molecular Clocks</span>
+    </content>
+  </RichText>
+  <RichText alignmentBaseline="ascent" fontSize="11" fontWeight="normal" fontFamily="sans-serif" fontStyle="normal" color="#FFFFFF" textAlpha="1" lineHeight="1" x="141" y="133" blockProgression="tb" id="text1493">
+    <content>
+      <span whiteSpaceCollapse="preserve" color="#FFFFFF" textAlpha="1" fontSize="11" fontWeight="normal" fontFamily="sans-serif" fontStyle="normal">Paul Jansen</span>
+    </content>
+  </RichText>
+</Graphic>
